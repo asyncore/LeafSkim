@@ -1,0 +1,8 @@
+{
+  "name": "LeafSkim",
+  "description": "Fast local EPUB skimmer and reader for Android and desktop with one-tap starring in list or reading mode and Send to Kindle library workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
